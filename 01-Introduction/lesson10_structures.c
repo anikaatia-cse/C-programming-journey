@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("STRUCTURES MASTER PROGRAM\n\n");
+    printf("STRUCTURES-MASTER-PROGRAM\n\n");
 
     struct student_info
     {
